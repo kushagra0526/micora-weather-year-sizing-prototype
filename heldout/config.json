@@ -1,0 +1,5 @@
+{
+  "note": "Frozen before the first held-out run. Dev sites: Honolulu, Reno, Austin, Chicago. Method chosen on dev: size to 98% + 1-point margin (99%) in every sizing year 2005-2010, then check 2011-2015 against the 98% target. Held-out: four sites never run during development, from very sunny to cloudy and wet.",
+  "sites": ["seattle_wa", "phoenix_az", "denver_co", "hilo_hi"],
+  "margin": 0.01
+}
